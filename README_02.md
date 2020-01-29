@@ -301,10 +301,6 @@ exec msdb.dbo.sp_send_dbmail
  
 drop table #mirrored_databases
 ```
-https://mikesdatawork.wordpress.com/2015/10/29/automatically-failover-all-database-mirrors-with-a-single-job-03-of-10/
-
-
-
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 

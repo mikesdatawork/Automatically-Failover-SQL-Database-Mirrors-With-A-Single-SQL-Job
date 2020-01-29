@@ -317,9 +317,6 @@ if exists(select top 1 * from #confirm_mirror_failover)
         raiserror('50005 Mirror Failover Error.  Not all Mirrored Databases were properly failed over.', 16, -1, @@servername )
     end
 ```
-https://mikesdatawork.wordpress.com/2015/10/29/automatically-failover-all-database-mirrors-with-a-single-job-07-of-10/
-
-
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 

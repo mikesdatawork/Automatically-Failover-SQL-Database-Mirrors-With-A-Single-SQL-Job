@@ -1,4 +1,4 @@
-![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")        # 
+![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")
 
 # Automatically Failover SQL Database Mirrors With A Single Job (02 of 10)
 **Post Date: October 29, 2015**

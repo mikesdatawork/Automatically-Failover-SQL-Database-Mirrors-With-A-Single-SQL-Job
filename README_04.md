@@ -36,8 +36,7 @@ set quoted_identifier on
 -- Configure SQL Database Mail if it's not already configured.
 if (select top 1 name from msdb..sysmail_profile) is null
     begin
-        </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      </p>      -
-        -- Enable SQL Database Mail
+ -- Enable SQL Database Mail
         exec master..sp_configure 'show advanced options',1
         reconfigure;
         exec master..sp_configure 'database mail xps',1
